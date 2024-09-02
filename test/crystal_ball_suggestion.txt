@@ -1,0 +1,143 @@
+1,2,6,9,11,12||明天晚上一起吃饭么!!Do you want to have dinner together tonight?
+1,6,9,11,12||周末有空一起去爬山吗？!!Would you be free to go hiking this weekend?
+1,6,9,11,12||最近怎么样？有空的话一起喝杯咖啡!!How have you been? Let's grab a coffee sometime if you're free.
+1,6,9,11,12||本周五的社团活动你参加吗，有许多新来的社员。!!Are you going to the club meeting this Friday?  There are lots of new members coming. 
+1,6,9,11,12||放假时间改为9月6日至9月9日，看到的请回复!!Holiday time has been changed to September 6th to September 9th. Please reply if you’ve seen this.
+1,6,9,11,12||我们计划周四晚上一起去看电影，你有时间吗？!!We’re planning to go to the movies together on Thursday night. Do you have time?
+1,6,8,9,12||公司的年会定在下个月20号，你能参加吗？!!The company’s annual meeting is scheduled for the 20th of next month. Can you attend?
+1,2,6,9,11,12||要不要一起去健身房？!!Want to go to the gym together?
+1,6,9,11,12||下个月一起去旅行吗？ !!Would you like to go on a trip together next month?
+1,4,5,6||你的项目报告写完了吗？能发给我看一下吗？!!Have you finished writing your project report? Can you send it to me to take a look?
+1,12,6,9||你上次借我的书看完了吗？可以还我了吗？!!Have you finished reading the book you borrowed from me? Can you return it now?
+1,3,5,6||王老师的联系方式你发我一下呗!!Could you send me Mr. Wang’s contact information?
+1,3,5,6||小李，你之前提到的那位健身教练的联系方式可以给我吗？我也想开始锻炼了。!!Xiao Li, could you give me the contact information of that fitness coach you mentioned? I also want to start exercising.
+1,3,5,6||小李，你之前推荐的那个旅游顾问的联系方式能发给我一下吗？我想计划个假期。!!Xiao Li, could you send me the contact information of that travel consultant you recommended? I want to plan a vacation.
+1,3,5,6||我下午的课忘记签到了，你知道赵老师的联系方式吗!!I forgot to sign in for my class this afternoon. Do you know Mr. Zhao’s contact information?
+1,2,3,5,6||我这周末要去做美甲，你能把你上次推荐给我的那家店铺的联系方式给我吗!!I’m going to get my nails done this weekend. Can you give me the contact information of that shop you recommended to me last time?
+1,3,5,6||你之前提到的那个摄影师的联系方式能发给我吗？我想预约一场拍摄。!!Could you give me the contact information of that photographer you mentioned? I’d like to schedule a photoshoot.
+1,2,3,5,6||你上次说的那家修车店联系方式能给我吗？我的车需要保养了。!!Could you give me the contact information of that car repair shop you mentioned? My car needs maintenance.
+1,3,5,6||你能给我李医生的联系方式吗？我儿子有点发烧想找他看看。!!Could you give me Dr. Li’s contact information? My son has a fever and I’d like him to take a look.
+1,3,5,6||刚才你提到的那个优秀的家教，她的联系方式给我一下好吗？!!Could you give me the contact information of that excellent tutor you mentioned?
+1,3,5,6||我想联系刘秘书安排一次会议，她的联系方式是什么？!!I want to contact Secretary Liu to arrange a meeting. What is her contact information?
+1,3,5,6||刘总，关于项目的最终报告，客户需要您的直接联系方式以便后续沟通，请提供一下。!!Mr. Liu, the client needs your direct contact information for further communication regarding the final project report. Please provide it.
+1,3,5,6||兄弟你们之前找的租房中介能不能推我，我想在你们小区租个房子!!Brothers, could you recommend the rental agent you used to me? I want to rent a house in your neighborhood.
+1,2,3,5,6||姐妹，你们上次去的那家美容院效果怎么样？能不能把联系方式推给我，我也想去试试。!!Sisters, how was the beauty salon you went to last time? Could you send me their contact information? I’d like to try it out too.
+1,2,3,5,6||姐，听说你们之前找的那家宠物医院很不错，能不能把联系方式推给我？我家狗狗最近有点不舒服。!!Sis, I heard the pet hospital you went to last time is great. Could you send me their contact information? My dog hasn’t been feeling well lately.
+1,3,5,6||有没有好的语数英老师推荐，联系方式发我一下呗!!Do you have any good recommendations for math, Chinese, and English teachers? Could you send me their contact information?
+1,3,5,6||你好，帮我把金盏嘉园西11号楼二单元102的租户的联系方式给我一下!!Hello, could you give me the contact information of the tenant at Unit 102, Building 11, West 11th Floor, Jinyuan Jiayuan?
+1,2,3,5,6||小王，你之前推荐的那家拉面馆在哪个位置？!!Xiao Wang, where is the ramen shop you recommended last time located?
+1,2,5,6||你还记得上次我们去的那个公园在哪儿吗？!!Do you remember where that park is that we went to last time?
+1,2,3,5,6||老表，那家你推荐的中医馆还开门吗？能不能给我他们的联系方式，我妈腰疼想去看看。!!Cousin, is that traditional Chinese medicine clinic you recommended still open? Could you give me their contact information? My mom’s back is hurting and she wants to get it checked.
+1,3,4,6,9||老弟，听说你们学校的图书馆很全，能不能帮我借几本书？!!Little brother, I heard your school library is very comprehensive. Could you borrow a few books for me?
+1,3,5||姐妹们，我想找一位专业的瑜伽教练，你们有没有推荐的？!!Ladies, I’m looking for a professional yoga instructor. Do you have any recommendations?
+1,3,5||姐妹们，我最近想找一个靠谱的家政服务，有没有好的推荐？!!Ladies, I’m looking for a reliable home service recently. Do you have any good recommendations?
+1,2,3,5||吴比的家住哪来着!!Where does Wu Bi live again?
+1,2,3,5||小李，你记得上次我们去的那个咖啡馆在哪个位置吗？!!Xiao Li, do you remember the location of that coffee shop we went to last time?
+1,2,3,5||姐妹，你之前提过的那家网红书店在哪个位置啊？!!Sister, where is that popular bookstore you mentioned before?
+1,2,3,5||我们这周五团建的餐厅在哪个地方!!Where is the restaurant for our team building this Friday?
+1,2,3,5||根据您的租房需求，需要您提供一下办公地址!!Could you please provide the office address according to your rental needs?
+1,2,3,5||你还记得我们之前去过的那个健身房在哪里吗？!!Do you still remember where that gym we used to go is located?
+1,2,3,5||你能告诉我你们公司总部的位置吗？我要去拜访。!!Can you tell me the location of your company’s headquarters? I need to visit.
+1,2,3,5||小张，你还记得我们上次吃火锅的那家店在哪儿吗？!!Xiao Zhang, do you remember where that hotpot restaurant we went to last time is?
+1,2,3,5|| 老刘，你还没告诉我那个图书馆在哪吗？!!Lao Liu, you haven’t told me where the library is yet?
+1,2,3,5||老张，我们公司的新办公室在哪里？明天要搬过去了。!!Lao Zhang, where is our company’s new office? We’re moving there tomorrow.
+1,2,5||王姐，你上次说的那个公园怎么走？周末想带孩子去玩。!!Wang Jie, how do I get to that park you mentioned last time? I want to take the kids to play on the weekend.
+1,4,5,6||之前你整理过一个公司介绍的PPT，再发我一呗，找不到了!!You made a company introduction PPT before, could you send it to me again? I can’t find it.
+1,4,5,6||周报发我一下!!Send me the weekly report.
+1,4,5,6||把昨天的会议记录发我一下吧!!Please send me the minutes of yesterday’s meeting.
+1,4,5,6||你上次提的那个项目的进度更新发给我!!Send me the progress update on that project you mentioned last time.
+1,3,4,5,6,10||把上次咱们头脑风暴得出的创意方案汇总发过来!!Send over the summary of the creative ideas we brainstormed last time.
+1,3,4,5,6||给我分享一下你耗时许久完成的那个复杂项目的详细流程规划!!Share with me the detailed process plan of that complex project you spent a long time completing.
+1,3,4,5,6||能把最近一个月的销售数据发给我吗？!!Can you send me the sales data for the last month?
+1,3,4,5,6||可以分享一下上次培训的课件吗？!!Can you share the courseware from the last training session?
+1,3,4,5,6||能否把明天的行程计划发我查看一下？!!Can you send me the itinerary plan for tomorrow to check?
+1,3,4,5,6,10||昨晚的大模型训练资料可以发我一份吗？!!Can you send me a copy of the training materials for the large model from last night?
+1,3,4,5,6||明天的客户资料准备好了吗？!!Are the customer materials ready for tomorrow?
+1,3,4,5,6||能把上次会议讨论的要点总结一下发给我吗？!!Can you summarize the key points from the last meeting and send them to me?
+1,3,4,8,10||打听到一些 Plaude 的数据，1个是他们投资人和独立站代运营商，说现在每个月$100w+，另1个是Kickstarter的人，说ARR $2-3kw，ARR含软件订阅费，估计有一定水分（续费率假设可以manipulate）!!I found out some data about Plaude. One is that their investors and independent site operators are saying they’re now making over $100k per month. Another is from someone at Kickstarter, saying the ARR is$2-3 million, which includes software subscription fees, but there might be some padding (renewal rates can be manipulated).
+1,3,4,8,10||刚刚了解到一个关于EcoGreen项目的最新动态，他们成功与一家国际环保组织达成合作，预计下季度将推出新的绿色能源解决方案，初步市场反馈非常积极。!!I just learned about the latest developments on the EcoGreen project. They have successfully partnered with an international environmental organization and are expected to launch a new green energy solution in the next quarter. The initial market feedback is very positive.
+1,3,4,8,10||听说市场上有款名为SmartFit的智能健身设备正在热销，用户反馈其AI教练功能特别有效，帮助很多人在家就达到了健身效果。据内部人士透露，其月度销售量已突破5万台。!!I heard that a smart fitness device named SmartFit is selling hot in the market. Users say its AI coach feature is particularly effective, helping many people achieve fitness results at home. According to insiders, its monthly sales have exceeded 50,000 units.
+1,3,4,8,10||从一位资深的行业分析师那里获悉，新兴的生物科技公司 Biolink 在基因编辑领域取得了重大突破，其研发的一种新型基因疗法有望治愈多种绝症。然而，该疗法仍处于临床试验阶段，面临着严格的监管审批和伦理考量。!!From a senior industry analyst, I learned that the emerging biotech company Biolink has made a significant breakthrough in the field of gene editing. A new type of gene therapy they developed is expected to cure many incurable diseases. However, the therapy is still in clinical trials and faces strict regulatory approval and ethical considerations.
+1,3,4,8,10||了解到一些关于新兴科技公司 Lumia 的情况，他们的研发团队主要来自硅谷，目前正在研发一款革命性的智能设备，预计明年上市，据说市场潜力巨大。!!I got some information about the emerging tech company Lumia. Their R&D team is mainly from Silicon Valley and is currently developing a revolutionary smart device expected to hit the market next year, said to have huge market potential.
+1,3,4,8,10||了解到一家名为SolarTech的公司，他们正在开发新型太阳能电池板，据称效率比目前市场上的高出20%。预计明年初会进行大规模生产和推广，可能会对太阳能行业产生重大影响。!!I learned about a company named SolarTech that is developing a new type of solar panel, which is reportedly 20% more efficient than current market options. They are expected to start mass production and promotion early next year, which may have a significant impact on the solar industry.
+1,3,4,8,10||听说一家初创公司AquaPure正在研究一种新型的水净化技术，可以在极短时间内过滤掉99.9%的污染物。这项技术已经通过初步测试，下一步计划在发展中国家进行试点应用。!!I heard that a startup company AquaPure is researching a new type of water purification technology that can filter out 99.9% of pollutants in a very short time. This technology has passed initial tests and the next step is to pilot it in developing countries.
+1,3,4,8,10||上司明天需要一份大模型评测的报告，需要包括gpt4和cluade 还有gemini。!!Your supervisor needs a report on the evaluation of large models tomorrow, which should include GPT-4, Claude, and Gemini.
+1,3,4,8,10||今天突发奇想，想要设计一个能够自动分类家中杂物的智能垃圾桶，但目前只有初步的想法，还需要细化设计方案和考虑技术实现。!!Today, I had a sudden idea to design a smart trash can that can automatically sort household items, but I only have a preliminary idea and need to refine the design plan and consider the technical implementation.
+1,3,4,8,10||阅读了一篇关于可持续时尚的深度文章，提到了循环利用材料在服装制造中的创新应用，比如用海洋塑料制作运动鞋。这种环保理念让我深受启发。!!I read an in-depth article about sustainable fashion, which mentioned the innovative application of recycled materials in clothing manufacturing, such as making sneakers from ocean plastic. This environmental concept is very inspiring to me.
+1,12,6,9||早上出门记得把垃圾带下去!!Remember to take out the trash when you leave in the morning.
+1,12,6,9||下周三要提交项目进展报告，请提前准备!!Be prepared to submit the project progress report next Wednesday.
+1,12,6,9||晚上回家路上顺便去超市买牛奶和鸡蛋!!Pick up milk and eggs at the supermarket on your way home tonight.
+1,6,8,9,11,12||下班的时候买一些东西回来，萝卜，土豆，鸡胸肉，猪排骨，油，要玉米油，不要大豆油，太油了，哦对，还有盐，要海盐!!Buy some things on your way home from work: carrots, potatoes, chicken breast, pork ribs, oil, corn oil, not soy oil, it’s too greasy. Oh, and salt, sea salt.
+1,4,5,6,9||记得明天买最早的航班，不要忘记了!!Remember to buy the earliest flight tomorrow, don’t forget.
+1,3,4,5,6,9,11,12||记得下周一去公司财务部报销上个月的出差费用!!Remember to go to the company’s finance department to reimburse last month’s travel expenses next Monday.
+1,2,6,9,11,12||明天晚上带孩子去看牙医，预约的是6点!!Take the child to the dentist tomorrow evening, the appointment is at 6 pm.
+1,4,5,6||你妈妈生日快到了，你准备好礼物了吗？!!Your mom’s birthday is coming up, have you prepared a gift?
+1,2,3,5,6||我需要你帮我预约下周的理发师。!!I need you to help me book a haircut next week.
+1,2,6,9,12||晚上一起吃饭吗？我订了家新开的日料店。!!Do you want to have dinner together tonight? I booked a new Japanese restaurant.
+1,3,6,9,12||家里的洗衣机好像出了点问题，洗衣服的时候声音特别大。!!The washing machine at home seems to be having problems, it makes a loud noise when washing clothes.
+1,11,12||猫粮你不用买了，我买完了!!You don’t need to buy cat food, I’ve
+1,11,12||晚餐我已经订了外卖，你不用再准备了!!Dinner is already ordered, you don't need to prepare anything.
+1,11,12||健身房的私教课我改到下周三了，请更新记录!!I've changed my personal training session at the gym to next Wednesday, please update the record.
+1,11,12,6||我今晚不想吃宫保鸡丁了，我想吃宫保虾球!!I don't want Kung Pao Chicken tonight, I want Kung Pao Shrimp.
+1,11,12||早上走的时候我把家里的垃圾已经扔掉了!!I threw out the garbage this morning when I left.
+11,1,3,12||公司会议室已被临时占用，今天的项目讨论会改到明天上午10点!!The company meeting room has been temporarily occupied, today's project discussion will be moved to tomorrow morning at 10am.
+1,3,11,12,13||由于航班延误，接机时间改为晚上10点!!Due to flight delays, the pick-up time has been changed to 10 pm.
+1,11,12||今天的会议已经取消，你可以将那个闹钟关掉了!!Today's meeting has been cancelled, you can turn off the alarm.
+1,11,12||我已经买了回家的火车票，你不用再帮我查找车次了!!I've already bought the train ticket home, you don't need to help me find the train schedule anymore.
+11,1,3,12||本周五的团建活动因天气原因改为室内进行，地点是公司健身房!!This Friday's team building activity will be held indoors due to weather reasons, the location is the company gym.
+1,2,5,11,12||餐厅的预约时间调整为晚上7点半，请确认!!The reservation time at the restaurant has been adjusted to 7:30 pm, please confirm.
+1,12,6,9||明天下午3点开产品会!!Product meeting tomorrow at 3 pm.
+1,12,6,9||亲爱的，别忘了周五晚上7点，我们有个家庭聚餐，期待你的到来！!!Honey, don't forget we have a family dinner on Friday night at 7pm, looking forward to your arrival!
+1,6,8,9,12||嗨，朋友！下周二上午10点，咱们有个项目讨论会，能参加吗？!!Hi friend! We have a project discussion meeting next Tuesday at 10 am, are you available?
+1,5,6,9,12||我们这周三至周五需要去深圳出差，记得准备一下!!We have a business trip to Shenzhen from Wednesday to Friday this week, remember to get ready.
+1,6,8,9,12||我把我们周六至周日的旅游行程已经规划好了，我们先去颐和园，再去圆明园，再去鼓楼，这是非常愉快的一次旅行!!I have planned our sightseeing itinerary for Saturday and Sunday. We will first go to the Summer Palace, then the Yuanmingyuan, and finally the Drum Tower. It will be a very pleasant trip.
+1,12,6,9||下周四下午2点有个重要的项目汇报会，请提前做好准备。!!There's an important project presentation next Thursday afternoon at 2 pm, please prepare in advance.
+1,12,6,9||明天早上9点我们有个部门会议，务必准时参加。!!We have a department meeting tomorrow morning at 9 am, be sure to attend on time.
+1,12,6,9||周六晚上八!!Saturday night at 8... (Please provide more context for this sentence)
+1,6,9,11,12||周四下午8点，一起去踢球。!!Let's go play soccer at 8 pm on Thursday.
+1,6,9,11,12||下周二晚上7点你有时间吗，咱们一起去看个电影吧。!!Are you free next Tuesday night at 7 pm? Let's go watch a movie.
+1,6,9,11,12||周五上午10点有客户拜访，请准备相关资料。!!There will be a client visit on Friday morning at 10 am, please prepare relevant materials.
+1,11,12||明天下午3点的产品会改到五点了!!Tomorrow's product meeting at 3 pm has been changed to 5 pm.
+1,11,12||周五晚上的团队聚餐改到周六晚上7点了，因为有人不能来。!!Friday night's team dinner has been changed to Saturday night at 7 pm because some people can't come.
+1,11,12||原定于本周四下午3点的部门会议，因场地冲突，改到下周一下午3点。!!The department meeting originally scheduled for Thursday afternoon at 3 pm has been moved to Monday afternoon at 3 pm due to a venue conflict.
+1,11,12||我这周五临时被安排飞往北京了，不能去做美甲了，我感到非常抱歉!!I was suddenly assigned to fly to Beijing this Friday and can't get my nails done, I'm so sorry.
+1,11,12||我这周不能来补英语课了，学校有表演晚会，我想去参加!!I can't come to make up for my English class this week, there's a performance at school and I want to participate.
+1,11,12||原定于本周五下午4点的客户会议，因客户行程变动，改到下周一上午10点。!!The client meeting originally scheduled for Friday afternoon at 4 pm has been moved to Monday morning at 10 am due to a change in the client's schedule.
+1,11,12||周三的项目讨论会时间调整到了周四上午9点，因为有几个成员有时间冲突。!!The project discussion meeting on Wednesday has been moved to Thursday morning at 9 am because several members have time conflicts.
+1,11,12||明天早上的英语课改到下个月第一周的周一了，因为老师有事!!Tomorrow morning's English class has been moved to the first Monday of next month because the teacher has something to do.
+1,11,12||原计划明天晚上的家庭聚会因为家人聚餐的时间的冲突，改到后天下午3点。!!The family gathering originally planned for tomorrow night has been moved to the afternoon after tomorrow at 3 pm due to a conflict with the family dinner time.
+1,11,12||医生通知您的体检时间从下周二早上8点调整到了周三下午2点。!!The doctor notified you that your physical exam time has been changed from Tuesday morning at 8 am to Wednesday afternoon at 2 pm.
+1,11,12||收到消息：学校通知，明天的家长会时间由下午2点提前到上午10点开始。!!Received message: School notification, tomorrow's parent meeting time has been changed from 2 pm to 10 am.
+8,1,13,7||收货人: 王松年手机号码: 18610291841所在地区: 北京北京市朝阳区酒仙桥街道详细地址: 酒仙桥北路7号电通创意广场15号楼细红线科技”!!Recipient: Name: Wang Songnian Mobile number: 18610291841 Region: Beijing, Chaoyang District, Jiuxianqiao Street Detailed address: No. 7 Jiuxianqiao North Road, Dian Tong Creative Plaza, Building 15, Xihongxian Technology
+8,1,13,7||合作伙伴详情：公司名称：蓝天科技有限公司联系人：赵敏联系电话：13788889999公司地址：深圳市南山区科技园科兴路10号!!Partner Details: Company name: Blue Sky Technology Co., Ltd. Contact person: Zhao Min Contact number: 13788889999 Company address: No. 10 Kexing Road, Science and Technology Park, Nanshan District, Shenzhen
+8,1,13,7||会议邀请：主讲人：陈教授联系电话：18055556666邮箱：mailto:chen@university.edu会议地点：南京市鼓楼区中山路1号南京大学!!Meeting Invitation: Speaker: Professor Chen Contact number: 18055556666 Email: mailto:chen@university.edu Meeting location: No. 1 Zhongshan Road, Gulou District, Nanjing University, Nanjing
+8,1,13,7||这是我们业服人员的手机号，你有事可以直接给他打电话，业务联系人: 刘佳琪手机号码: 17612345678!!Our Service Staff's Mobile Number: Business contact: Liu Jiaqi Mobile number: 17612345678
+8,1,13,7||这是我的手机号码: 13598761234所在地区: 西安西安市雁塔区大雁塔街道详细地址: 雁展路 1111 号莱安中心 T1 栋 20 楼 辉煌发展!!My Contact Information: Mobile number: 13598761234 Region: Xi'an, Yanta District, Dayanta Street Detailed address: No. 1111 Yan Zhan Road, Le An Center T1 Building, 20th Floor, Brilliant Development
+8,1,13,7||项目负责人联系方式：姓名：张伟手机号码：13711223344公司：华夏建设集团职位：项目经理办公地址：北京市海淀区中关村大街27号!!Project Manager Contact Information: Name: Zhang Wei Mobile number: 13711223344 Company: Huaxia Construction Group Position: Project Manager Office address: No. 27 Zhongguancun Street, Haidian District, Beijing
+8,1,13,7||技术支持联系方式：姓名：王小明联系电话：15987654321邮箱：mailto:wxiaoming@techsupport.com公司地址：上海市浦东新区世纪大道100号!!Technical Support Contact Information: Name: Wang Xiaoming Contact number: 15987654321 Email: mailto:wxiaoming@techsupport.com Company address: No. 100 Century Avenue, Pudong New Area, Shanghai
+8,1,13,7||这是昨天一起踢球的朋友 刘建国 ：姓名：刘建国手机号码：13987654321常去的球场：蓝天足球场职业：律师!!Friend from Yesterday's Soccer Game: Name: Liu Jianguo Mobile number: 13987654321 Regular soccer field: Blue Sky Football Field Occupation: Lawyer
+8,1,13,7||供应商详情：名称：深圳金鹏科技有限公司联络人：刘欣联系电话：13800138000地址：深圳市罗湖区深南东路2022号金鹏大厦15楼!!Supplier Details: Name: Shenzhen Jinpeng Technology Co., Ltd. Contact person: Liu Xin Contact number: 13800138000 Address: No. 2022 Shennan East Road, Luohu District, Shenzhen, Jinpeng Building, 15th Floor
+8,1,13,7||新同事介绍：姓名：赵雷工作电话：13578901234内部分机：5678邮箱：mailto:zhaolei@internal.company.com部门：人力资源部!!New Colleague Introduction: Name: Zhao Lei Work phone: 13578901234 Internal extension: 5678 Email: mailto:zhaolei@internal.company.com Department: Human Resources Department
+8,1,13,7||客户资料：姓名：李华电话：13800138000邮箱：mailto:lihua@example.com公司：未来科技有限公司职位：销售经理!!Customer Information: Name: Li Hua Phone: 13800138000 Email: mailto:lihua@example.com Company: Future Technology Co., Ltd. Position: Sales Manager
+8,1,13||我换手机号了，新手机号是 13212344321!!My new mobile number is 13212344321.
+8,1,13||我最近搬家了，新地址是上海市徐汇区淮海中路1000号。!!My new address is 1000 Huaihai Middle Road, Xuhui District, Shanghai.
+8,1,13||由于工作原因，我的公司名称更改了，新公司是未来科技有限公司。!!My company name has changed due to work reasons. My new company is Future Technology Co., Ltd.
+8,1,13||我改名字了，现在叫林悦然。!!I've changed my name to Lin Yue Ran.
+8,1,13||我搬到我妈妈这里了，现在在深圳市福田区深南大道 6008 号报业大厦 16 楼的创新科技公司。!!I moved in with my mom. My new address is Innovation Technology Company, 16th Floor, Bao Ye Building, 6008 Shennan Avenue, Futian District, Shenzhen.
+8,1,13||我现在的职位变了，新职位是市场总监。!!My new position is Market Director.
+8,1,13||我的办公电话改了，新号码是021-12345678。!!My new office phone number is 021-12345678.
+8,1,13||我现在的工作地点是广州市天河区科技园100号!!My new work location is No. 100, Science and Technology Park, Tianhe District, Guangzhou.
+8,1,13||我换电子邮件了，新邮件地址是 abc@xyz.com。!!My new email address is abc@xyz.com.
+8,1,13||我换了工作，新公司的邮箱是：newjob@example.com，请更新一下。!!I changed jobs. My new company email address is newjob@example.com. Please update it.
+8,1,13||我的微信号改了，新号是：NewWeChatID，请加我一下。!!My WeChat ID has changed to NewWeChatID. Please add me.
+1,10||我觉得世界就像博尔赫斯书里的图书馆一样!!I feel like the world is like the library in Borges' book.
+1,10||我最近在看一部关于暗物质的电影，感觉好神奇。!!I've been watching a movie about dark matter recently. It's so amazing.
+1,10||我在读《百年孤独》，里面的‘马孔多’是个什么样的地方啊？!!I'm reading "One Hundred Years of Solitude". What kind of place is "Macondo"?
+1,10||我感觉自己此刻的心境犹如托尔斯泰《安娜·卡列尼娜》中安娜在爱情与道德困境中的挣扎和迷茫。!!I feel like my current state of mind is similar to Anna's struggle and confusion between love and moral dilemmas in Tolstoy's "Anna Karenina".
+1,10||我所面临的选择就像歌德《浮士德》中浮士德在欲望和良知之间的艰难徘徊与抉择。!!The choices I face are like Faust's difficult choices between desire and conscience in Goethe's "Faust".
+1,10||我最近在读《1984》，里面的‘老大哥’是什么意思？!!I'm reading "1984" recently. What does "Big Brother" mean?
+1,10||我在学习天文学，书中提到了‘事件视界’，这是什么意思？!!I'm learning astronomy. The book mentioned "event horizon". What does that mean?
+1,10||我看新闻说起了AI agent，这是什么意思？!!I saw AI agents mentioned in the news. What does it mean?
+1,10||科技日新月异，我听说过‘量子计算机’，但是并不了解它。!!Technology is developing rapidly. I've heard of "quantum computers", but I don't understand them.
+1,10||我在听古典音乐，这首曲子提到了‘奏鸣曲式’，我不太懂!!I'm listening to classical music. This piece mentioned "sonata form", but I don't understand it very well.
+1,10||这篇文章提到了‘量子纠缠’，听起来好深奥啊。!!This article mentioned "quantum entanglement". It sounds very profound.
