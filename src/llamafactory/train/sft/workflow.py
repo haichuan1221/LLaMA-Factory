@@ -102,7 +102,7 @@ def run_sft(
         tokenizer.padding_side = "left"  # use left-padding in generation
 
     # Evaluation
-    if training_args.do_eval:
+    if training_args.do_eval and False:
         metrics = trainer.evaluate(metric_key_prefix="eval", **gen_kwargs)
         if training_args.predict_with_generate:  # eval_loss will be wrong if predict_with_generate is enabled
             metrics.pop("eval_loss", None)
