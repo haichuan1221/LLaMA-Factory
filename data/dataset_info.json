@@ -24,6 +24,10 @@
       "tools": "tools"
     }
   },
+  "crystall_ball": {
+    "file_name": "crystall_ball.json",
+    "formatting": "sharegpt"
+  },
   "mllm_demo": {
     "file_name": "mllm_demo.json",
     "formatting": "sharegpt",
