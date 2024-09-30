@@ -28,6 +28,14 @@
     "file_name": "crystall_ball.json",
     "formatting": "sharegpt"
   },
+  "crystall_ball_merge": {
+    "file_name": "crystall_ball_merge.json",
+    "formatting": "sharegpt"
+  },
+  "crystall_ball_glm": {
+    "file_name": "crystall_ball_glm.json",
+    "formatting": "sharegpt"
+  },
   "mllm_demo": {
     "file_name": "mllm_demo.json",
     "formatting": "sharegpt",

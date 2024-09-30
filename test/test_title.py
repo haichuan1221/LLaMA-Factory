@@ -50,6 +50,7 @@ I will give you the IM messages received by the user, along with a series of sug
 13. Suggest modify contact
 """
 
+
 def isAnswerMatched(incoming_values, gt_values):
     for v in incoming_values:
         if v in gt_values:
@@ -69,7 +70,7 @@ def test_llama_8B():
     total_test, correct_test = 0, 0
 
 
-    with open('crystal_ball_suggestion_complex.txt', 'r') as fin:
+    with open('crystal_ball_suggestion.txt', 'r') as fin:
         lines = fin.readlines()
         for idx, line in enumerate(lines):
             if "||" not in line:
@@ -92,7 +93,7 @@ def test_llama_8B():
 
             response = client.chat.completions.create(
                 model=
-                'xxx',
+                '/data/models/saves/phi-3.5-moe/lora/sft_merge',
                 messages=messages,
                 top_p = 1.0,
                 temperature = 0.0,

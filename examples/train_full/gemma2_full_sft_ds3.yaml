@@ -1,23 +1,23 @@
 ### model
-model_name_or_path: google/gemma-2-9b-it
+model_name_or_path: google/gemma-2-2b-it
 
 ### method
 stage: sft
 do_train: true
 finetuning_type: full
-deepspeed: examples/deepspeed/ds_z2_offload_config.json
+deepspeed: examples/deepspeed/ds_z3_config.json
 
 ### dataset
 dataset: crystall_ball
 packing: true
 template: gemma
 cutoff_len: 1024
-max_samples: 2499
+max_samples: 24990
 overwrite_cache: true
 preprocessing_num_workers: 16
 
 ### output
-output_dir: /data/models/saves/gemma-2-9b/full/sft
+output_dir: /data/models/saves/gemma-2-2b/full/sft
 logging_steps: 10
 save_steps: 500
 plot_loss: true
