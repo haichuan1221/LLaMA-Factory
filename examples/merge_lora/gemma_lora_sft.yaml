@@ -2,12 +2,12 @@
 
 ### model
 model_name_or_path: google/gemma-2-9b-it
-adapter_name_or_path: /data/models/saves/gemma-2-9b/lora/sft
+adapter_name_or_path: /data/models/saves/gemma-2-9b/lora/sft_task_decomposition
 template: gemma
 finetuning_type: lora
 
 ### export
-export_dir: /data/models/saves/gemma-2-9b/lora/sft_merge
+export_dir: /data/models/saves/gemma-2-9b/lora/sft_merge_task_decomposition
 export_size: 2
 export_device: cpu
 export_legacy_format: false
