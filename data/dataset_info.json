@@ -36,6 +36,10 @@
     "file_name": "crystall_ball_glm.json",
     "formatting": "sharegpt"
   },
+  "task_decomposition":{
+    "file_name":"task_decomposition.json",
+    "formatting": "sharegpt"
+  },
   "mllm_demo": {
     "file_name": "mllm_demo.json",
     "formatting": "sharegpt",
