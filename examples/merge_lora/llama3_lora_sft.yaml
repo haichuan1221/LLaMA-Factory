@@ -5,6 +5,7 @@ model_name_or_path: meta-llama/Llama-3.1-70B-Instruct
 adapter_name_or_path: /data/models/saves/llama3-70b/lora/sft_instruction_decomposition
 template: llama3
 finetuning_type: lora
+trust_remote_code: true
 
 ### export
 export_dir: /data/models/saves/llama3-70b/lora/sft_instruction_decomposition_merge
