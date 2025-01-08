@@ -28,17 +28,43 @@
     "file_name": "crystall_ball.json",
     "formatting": "sharegpt"
   },
+  "nl2sql":{
+    "file_name": "nl2sql_prompt_20250103_1.json",
+	"formatting": "sharegpt" 
+  },
+  "nl2sql_dpo":{
+    "file_name": "nl2sql_dpo_20250108.json",
+	"ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
   "crystall_ball_merge": {
     "file_name": "crystall_ball_merge.json",
     "formatting": "sharegpt"
   },
-  "crystall_ball_glm": {
-    "file_name": "crystall_ball_glm.json",
+  "crystall_ball_20241025": {
+    "file_name": "crystall_ball_20241025.json",
     "formatting": "sharegpt"
   },
-  "task_decomposition":{
-    "file_name":"task_decomposition.json",
+  "task_decomposition_20241103":{
+    "file_name":"task_decomposition_20241103.json",
     "formatting": "sharegpt"
+  },
+  "crystall_broadcast":{
+    "file_name":"crystall_broadcast_20241028.json",
+	"formatting": "sharegpt"
+  },
+  "instruction_decomposition":{
+    "file_name":"gen_data.json",
+	"formatting": "sharegpt"
+  },
+  "instruction_decomposition_llama":{
+    "file_name": "gen_data_llama.json",
+	"formatting": "sharegpt"
   },
   "mllm_demo": {
     "file_name": "mllm_demo.json",

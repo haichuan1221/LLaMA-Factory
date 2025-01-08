@@ -1,13 +1,13 @@
 ### Note: DO NOT use quantized model or quantization_bit when merging lora adapters
 
 ### model
-model_name_or_path: Qwen/Qwen2.5-3B
-adapter_name_or_path: /data/models/saves/qwen2.5-3b/lora/sft
-template: gemma
+model_name_or_path: Qwen/Qwen2.5-72B-Instruct
+adapter_name_or_path: /data/models/saves/qwen2.5-72b/lora/sft_instruction_decomposition
+template: qwen
 finetuning_type: lora
 
 ### export
-export_dir: /data/models/saves/qwen2.5-3b/lora/sft_merge
+export_dir: /data/models/saves/qwen2.5-72b/lora/sft_instruction_decomposition_merge
 export_size: 2
 export_device: cpu
 export_legacy_format: false
