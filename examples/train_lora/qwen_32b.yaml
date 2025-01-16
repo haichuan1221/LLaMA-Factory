@@ -1,5 +1,5 @@
 ### model
-model_name_or_path: Qwen/Qwen2.5-32B-Instruct
+model_name_or_path: /data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_dp0_20250115_merge
 
 ### method
 stage: sft
@@ -17,7 +17,7 @@ overwrite_cache: true
 preprocessing_num_workers: 16
 
 ### output
-output_dir: /data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql
+output_dir: /data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_20250115_hardware
 logging_steps: 10
 save_steps: 500
 plot_loss: true
