@@ -29,11 +29,11 @@
     "formatting": "sharegpt"
   },
   "nl2sql":{
-    "file_name": "nl2sql_prompt_20250103_1.json",
+    "file_name": "nl2sql_prompt_20250116.json",
 	"formatting": "sharegpt" 
   },
   "nl2sql_dpo":{
-    "file_name": "nl2sql_dpo_20250108.json",
+    "file_name": "nl2sql_dpo_20250115.json",
 	"ranking": true,
     "formatting": "sharegpt",
     "columns": {
