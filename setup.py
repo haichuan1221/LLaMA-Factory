@@ -1,4 +1,4 @@
-# Copyright 2024 the LlamaFactory team.
+# Copyright 2025 the LlamaFactory team.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -46,7 +46,7 @@ extra_require = {
     "torch": ["torch>=1.13.1"],
     "torch-npu": ["torch==2.1.0", "torch-npu==2.1.0.post3", "decorator"],
     "metrics": ["nltk", "jieba", "rouge-chinese"],
-    "deepspeed": ["deepspeed>=0.10.0,<=0.14.4"],
+    "deepspeed": ["deepspeed>=0.10.0,<=0.16.2"],
     "liger-kernel": ["liger-kernel"],
     "bitsandbytes": ["bitsandbytes>=0.39.0"],
     "hqq": ["hqq"],
@@ -69,7 +69,6 @@ extra_require = {
         "msgpack",
         "referencing",
         "jsonschema_specifications",
-        "librosa",
     ],
     "modelscope": ["modelscope"],
     "openmind": ["openmind"],
@@ -92,7 +91,7 @@ def main():
         url="https://github.com/hiyouga/LLaMA-Factory",
         package_dir={"": "src"},
         packages=find_packages("src"),
-        python_requires=">=3.8.0",
+        python_requires=">=3.9.0",
         install_requires=get_requires(),
         extras_require=extra_require,
         entry_points={"console_scripts": get_console_scripts()},
@@ -104,10 +103,10 @@ def main():
             "License :: OSI Approved :: Apache Software License",
             "Operating System :: OS Independent",
             "Programming Language :: Python :: 3",
-            "Programming Language :: Python :: 3.8",
             "Programming Language :: Python :: 3.9",
             "Programming Language :: Python :: 3.10",
             "Programming Language :: Python :: 3.11",
+            "Programming Language :: Python :: 3.12",
             "Topic :: Scientific/Engineering :: Artificial Intelligence",
         ],
     )

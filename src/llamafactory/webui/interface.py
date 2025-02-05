@@ -1,4 +1,4 @@
-# Copyright 2024 the LlamaFactory team.
+# Copyright 2025 the LlamaFactory team.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -73,7 +73,7 @@ def create_web_demo() -> "gr.Blocks":
     engine = Engine(pure_chat=True)
 
     with gr.Blocks(title="Web Demo", css=CSS) as demo:
-        lang = gr.Dropdown(choices=["en", "ru", "zh", "ko"], scale=1)
+        lang = gr.Dropdown(choices=["en", "ru", "zh", "ko", "ja"], scale=1)
         engine.manager.add_elems("top", dict(lang=lang))
 
         _, _, chat_elems = create_chat_box(engine, visible=True)
