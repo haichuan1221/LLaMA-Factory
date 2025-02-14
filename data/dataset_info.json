@@ -29,7 +29,7 @@
     "formatting": "sharegpt"
   },
   "nl2sql":{
-    "file_name": "nl2sql_prompt_20250116.json",
+    "file_name": "nl2sql_prompt_r1.json",
 	"formatting": "sharegpt" 
   },
   "nl2sql_dpo":{

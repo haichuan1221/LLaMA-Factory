@@ -1,23 +1,23 @@
 ### model
-model_name_or_path: /data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_20250113_merge
+model_name_or_path: deepseek-ai/DeepSeek-R1-Distill-Qwen-32B  #/data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_20250113_merge
 
 ### method
 stage: sft
 do_train: true
 finetuning_type: lora
 lora_target: all
-deepspeed: examples/deepspeed/ds_z2_config.json
+deepspeed: examples/deepspeed/ds_z3_config.json
 
 ### dataset
 dataset: nl2sql
 template: qwen
-cutoff_len: 1024
+cutoff_len: 4096 #1024
 max_samples: 50000
 overwrite_cache: true
 preprocessing_num_workers: 16
 
 ### output
-output_dir: /data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_hardware_20250116
+output_dir: /data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_hardware_r1
 logging_steps: 10
 save_steps: 500
 plot_loss: true

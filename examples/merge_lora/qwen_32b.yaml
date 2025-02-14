@@ -1,13 +1,13 @@
 ### Note: DO NOT use quantized model or quantization_bit when merging lora adapters
 
 ### model
-model_name_or_path: /data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_20250113_merge
-adapter_name_or_path: /data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_hardware_20250116
+model_name_or_path: deepseek-ai/DeepSeek-R1-Distill-Qwen-32B #/data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_20250113_merge
+adapter_name_or_path: /data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_hardware_r1 #/data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_hardware_20250116
 template: qwen
 finetuning_type: lora
 
 ### export
-export_dir: /data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_hardware_20250116_merge
+export_dir: /data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_hardware_r1_merge #/data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_hardware_20250116_merge
 export_size: 16
 export_device: cpu
 export_legacy_format: false
