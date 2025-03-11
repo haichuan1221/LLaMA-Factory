@@ -1,0 +1,14 @@
+### Note: DO NOT use quantized model or quantization_bit when merging lora adapters
+
+### model
+model_name_or_path: Qwen/Qwen2.5-7B-Instruct
+adapter_name_or_path: /data/models/saves/qwen2.5-7b/lora/sft_slot_filling_20250304
+template: qwen
+finetuning_type: lora
+
+### export
+export_dir: /data/models/saves/qwen2.5-7b/lora/sft_slot_filling_20250304_merge
+export_size: 16
+export_device: cpu
+export_legacy_format: false
+

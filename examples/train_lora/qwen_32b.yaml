@@ -1,5 +1,5 @@
 ### model
-model_name_or_path: deepseek-ai/DeepSeek-R1-Distill-Qwen-32B  #/data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_20250113_merge
+model_name_or_path: Qwen/Qwen2.5-32B-Instruct  #/data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_20250113_merge
 
 ### method
 stage: sft
@@ -17,7 +17,7 @@ overwrite_cache: true
 preprocessing_num_workers: 16
 
 ### output
-output_dir: /data/models/saves/qwen2.5-32b/lora/sft_instruction_nl2sql_hardware_r1
+output_dir: /data/models/saves/qwen2.5-32b/lora/sft_nl2sql_20250219
 logging_steps: 10
 save_steps: 500
 plot_loss: true
@@ -37,7 +37,10 @@ lora_alpha: 64
 
 ### eval
 val_size: 0.1
-per_device_eval_batch_size: 1
+per_device_eval_batch_size: 2
 eval_strategy: steps
-eval_steps: 500
+eval_steps: 200
 
+### debug
+report_to: wandb
+run_name: test_nl2sql
